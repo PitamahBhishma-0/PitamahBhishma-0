@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning SPRING.
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
-- 📫 How to reach me: twitter-(@Gaurav_Basyal).
+- 📫 How to reach me: Please proceed to last part of my intro.
 - ⚡ Fun fact: I don't have any.
 
 ## 🚀 Languages and Tools:
