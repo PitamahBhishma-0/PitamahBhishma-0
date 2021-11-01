@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
 - 📫 How to reach me: Please proceed to last part of my intro.
-- ⚡ Fun fact: I don't have any.
+- ⚡ Fun fact: I may have but still don't know.
 
 ## 🚀 Languages and Tools:
 
