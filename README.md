@@ -7,7 +7,7 @@
 ### 🙋‍ About Me.
 
 
-- 🔭 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
+- 🔭 I’m currently working on learning ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
 - 🌱 I’m currently learning SPRING.
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
