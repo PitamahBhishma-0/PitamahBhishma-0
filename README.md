@@ -7,8 +7,8 @@
 ### 🙋‍ About Me.
 
 
-- 🔭 I’m currently working for mastering on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
-- 🌱 I’m currently learning SPRING.
+- 🔭 I’m currently having intern at FonePay(Full Stack).
+- 🌱 I’m currently learning Angular.
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
 - 📫 How to reach me: Please proceed to last part of my intro.
