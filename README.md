@@ -7,8 +7,8 @@
 ### 🙋‍ About Me.
 
 
-- 🔭 I’m currently working for mastering on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
-- 🌱 I’m currently learning SPRING.
+- 🔭 I’m currently doing intern at FonePay(Part of F1Soft Group).
+- 🌱 I’m currently learning fullstack technology(Angular and Spring) with database(MYSQL).
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
 - 📫 How to reach me: Please proceed to last part of my intro.
