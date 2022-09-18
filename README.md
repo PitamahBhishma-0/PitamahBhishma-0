@@ -7,8 +7,8 @@
 ### 🙋‍ About Me.
 
 
-- 🔭 I’m currently doing intern at FonePay(Part of F1Soft Group).
-- 🌱 I’m currently learning fullstack technology(Angular and Spring) with database(MYSQL).
+- 🔭 I’m currently working for mastering on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
+- 🌱 I’m currently learning SPRING.
 - 🤔 I’m looking for help with SENIOR JAVA DEVELOPERS.
 - 💬 Ask me about anything relevant to tech.
 - 📫 How to reach me: Please proceed to last part of my intro.
@@ -20,8 +20,6 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-  
-
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
