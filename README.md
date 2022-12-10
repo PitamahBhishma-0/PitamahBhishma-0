@@ -44,7 +44,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/PitamahBhishma-0/github-readme-activity-graph"><img alt="Gaurav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PitamahBhishma-0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Gaurav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PitamahBhishma-0)](https://github.com/PitamahBhishma-0/github-readme-activity-graph)
+
 
 <br/>
 <br/>
@@ -54,7 +55,6 @@
 
 <a href = "https://www.linkedin.com/in/gauravbasyal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Gaurav_Basyal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/gauravbasyal12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC5y8WjK8v2thR83dhtC8Q2w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
