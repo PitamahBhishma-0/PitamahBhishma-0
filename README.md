@@ -54,7 +54,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/devledger/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC5y8WjK8v2thR83dhtC8Q2w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
