@@ -31,23 +31,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PitamahBhishma-0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/PitamahBhishma-0/github-readme-stats"><img alt="Gaurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PitamahBhishma-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PitamahBhishma-0/github-readme-stats"><img alt="Gaurav's top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PitamahBhishma-0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of which may or maynot reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-[![Gaurav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PitamahBhishma-0)](https://github.com/PitamahBhishma-0/github-readme-activity-graph)
-
-
-<br/>
 <br/>
 
 ## Connect with me:
